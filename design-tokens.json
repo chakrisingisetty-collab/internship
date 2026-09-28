@@ -1,0 +1,66 @@
+{
+  "color": {
+    "primary": {
+      "50": "#EDE9FE",
+      "100": "#D8B4FE",
+      "500": "#6C5CE7",
+      "700": "#5B4BD6",
+      "900": "#4338CA"
+    },
+    "gray": {
+      "900": "#1F2937",
+      "600": "#6B7280",
+      "300": "#D1D5DB",
+      "100": "#F3F4F6"
+    },
+    "white": "#FFFFFF",
+    "success": "#10B981",
+    "error": "#EF4444",
+    "warning": "#F59E0B",
+    "info": "#3B82F6"
+  },
+  "typography": {
+    "heading1": {
+      "fontFamily": "Poppins",
+      "fontSize": "32px",
+      "fontWeight": 700,
+      "lineHeight": "40px"
+    },
+    "heading2": {
+      "fontFamily": "Poppins",
+      "fontSize": "24px",
+      "fontWeight": 600,
+      "lineHeight": "32px"
+    },
+    "body": {
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": "24px"
+    },
+    "caption": {
+      "fontFamily": "Inter",
+      "fontSize": "14px",
+      "fontWeight": 400,
+      "lineHeight": "20px"
+    },
+    "button": {
+      "fontFamily": "Poppins",
+      "fontSize": "16px",
+      "fontWeight": 500,
+      "lineHeight": "24px"
+    }
+  },
+  "spacing": {
+    "1": "8px",
+    "2": "16px",
+    "3": "24px",
+    "4": "32px",
+    "5": "40px"
+  },
+  "shadow": {
+    "small": "0px 1px 2px 0px rgba(0, 0, 0, 0.05)",
+    "medium": "0px 4px 6px -1px rgba(0, 0, 0, 0.1)",
+    "large": "0px 10px 15px -3px rgba(0, 0, 0, 0.15)"
+  }
+}
