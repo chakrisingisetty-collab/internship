@@ -158,3 +158,10 @@ Use for dialogs and overlays.
 Design tokens help maintain consistency across the SnapBook product.
 
 They make the design system easier to maintain, update, and scale across different screens and UI components.
+## 9. Implementation
+
+The design tokens are exported into JSON and converted into CSS variables so the same values can be reused consistently across the SnapBook product.
+
+Files:
+- `design-tokens.json` — source token definitions
+- `tokens.css` — CSS custom properties
