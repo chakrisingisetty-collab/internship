@@ -112,3 +112,24 @@ Use Modals for important confirmations, system feedback, and critical actions.
 The component library improves consistency, reusability, scalability, and collaboration between designers and developers.
 
 All components are designed using Auto Layout, variants, and the SnapBook design tokens.
+## W5D2 Progress Evidence
+
+The SnapBook component library was created in Figma using reusable components and variants.
+
+Completed components:
+- Button with Primary, Secondary, Ghost, Disabled, and Loading variants
+- Input with Default, Focus, Filled, Error, and Disabled states
+- Card with Default, Hover, and Selected states
+- Modal with Confirmation, Success, and Error states
+- Icon Button variations
+
+The components use the W5D1 design tokens for colour, typography, spacing, and shadows.
+
+## Component Design Approach
+
+All components were created with reusable structures and consistent spacing. Auto Layout and variants are used to maintain consistency and make the component library scalable.
+
+## Figma Evidence
+
+Figma Component Library:
+https://www.figma.com/design/OOiw46tGAt7SyffjAgG6eD/Untitled?node-id=220-2&t=2g2jEB3Vgw9INKro-1
