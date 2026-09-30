@@ -1,0 +1,63 @@
+.sb-card {
+  width: 100%;
+  max-width: 420px;
+  box-sizing: border-box;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  font-family: "Inter", sans-serif;
+  transition: 0.2s ease;
+}
+
+.sb-card:hover {
+  border-color: #6c5ce7;
+  box-shadow: 0 8px 24px rgba(31, 41, 55, 0.12);
+  transform: translateY(-2px);
+}
+
+.sb-card--selected {
+  border: 2px solid #6c5ce7;
+  box-shadow: 0 0 0 3px rgba(108, 92, 231, 0.12);
+}
+
+.sb-card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sb-card-category {
+  width: fit-content;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #f0edff;
+  color: #5145b5;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.sb-card-title {
+  margin: 0;
+  color: #1f2937;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.sb-card-details {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sb-card-details p {
+  margin: 0;
+  color: #6b7280;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.sb-card-details strong {
+  color: #1f2937;
+}
