@@ -46,3 +46,16 @@ using colours, typography, spacing, and shadows.
   padding: var(--spacing-md);
   box-shadow: var(--shadow-sm);
 }
+## 7. Design Token Usage Guidelines
+
+- Use primary-500 for primary buttons and important brand elements.
+- Use primary-700 for hover and active states.
+- Use the heading token for page and section titles.
+- Use spacing tokens instead of hardcoded spacing values.
+- Use shadow-sm for subtle elevation, shadow-md for cards,
+  and shadow-lg for modals and overlays.
+
+## 8. Maintenance
+
+Update the JSON tokens first, then keep the CSS variables
+and Figma design reference consistent with those changes.
