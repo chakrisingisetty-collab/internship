@@ -1,0 +1,33 @@
+:root {
+  /* Primary colours */
+  --color-primary-100: #E8EAF0;
+  --color-primary-300: #A8B2C7;
+  --color-primary-500: #1A2B4C;
+  --color-primary-700: #12203A;
+  --color-primary-900: #0B1426;
+
+  /* Background and text */
+  --color-background: #F5F7FA;
+  --color-accent: #D4AF37;
+  --color-text-secondary: #4E5A66;
+
+  /* Typography */
+  --font-size-heading: 24px;
+  --font-weight-heading: 700;
+  --font-size-body: 16px;
+  --font-weight-body: 400;
+  --font-size-caption: 12px;
+  --font-weight-caption: 400;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(26, 43, 76, 0.10);
+  --shadow-md: 0 4px 10px rgba(26, 43, 76, 0.15);
+  --shadow-lg: 0 8px 24px rgba(26, 43, 76, 0.20);
+}
