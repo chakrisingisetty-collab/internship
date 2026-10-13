@@ -1,0 +1,3 @@
+# W7D2 Reflection — AI Colour Palette Generator
+
+During W7D2, I created a reusable design token system for the SnapBook application. I organised five primary colour shades, three typography scales, five spacing values, and three shadow styles in Figma. I saved the design values in a JSON file and converted them into reusable CSS variables. I also documented the purpose of each token with CSS usage examples. This exercise helped me understand how design tokens improve consistency, maintainability, and collaboration between designers and developers. I learned that keeping Figma, JSON, and CSS values consistent is important for building a scalable design system.
